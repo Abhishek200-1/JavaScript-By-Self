@@ -42,3 +42,50 @@ const myFunction = function(){
     console.log("hello Abhishek")
 }
 myFunction();
+
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ Memory Type ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+/*
+There are two types of memery in javascript
+1) Stack
+    ( it is used for primitive data types 
+        jo variable declare kiya hai uska ek copy mita hai
+    )
+
+    **Stack memory**
+    ****************
+    *              *
+    ****************
+    *              *
+    ****************
+    *              *
+    ****************
+    *              *
+    ****************
+    *              *
+    ****************
+    
+2) Heap 
+    ( it is used in non-primitive 
+        original value ka refrence milta hai 
+    )
+    **Heap Memory**
+    ************************************************
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    ************************************************
+*/
+
+let myYouTubeName = "DevBucket.youtube.com"
