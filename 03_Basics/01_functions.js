@@ -23,4 +23,19 @@ function addTwoNumbers(num1, num2){
 }
 
 const result = addTwoNumbers(3,5)
-console.log("result: ", result);
+// console.log("result: ", result);
+
+function loginUserMessage(username = "sam"){
+    if(username === undefined){
+        console.log("please enter a username");
+        return
+    }
+    return `${username} just logged in`
+}
+
+
+// console.log(loginUserMessage("Abhishek"))
+console.log(loginUserMessage(""))
+
+
+
