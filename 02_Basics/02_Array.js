@@ -3,6 +3,7 @@ const dc_heros = ["batman", "superman", "flash", "wonderWomen"]
 
 // marvel_heros.push(dc_heros);
 // console.log(marvel_heros);
+// hello
 
 
 // const allheros = marvel_heros.concat(dc_heros);
