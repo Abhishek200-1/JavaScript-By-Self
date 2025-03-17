@@ -1,4 +1,4 @@
-// shopping cart
+// shopping cart here
 
 function calculateCartPrice(...num1){
     return num1;
