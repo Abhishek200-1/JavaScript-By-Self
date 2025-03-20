@@ -12,7 +12,7 @@ console.log(myArray[5])
 
 
 
-// array methods 
+// array methods s
 
 
 // push add elements in array 
