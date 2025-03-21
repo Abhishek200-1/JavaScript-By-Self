@@ -24,7 +24,7 @@ myArray.pop()
 myArray.unshift(0)
 // removes elemnts from start
 myArray.shift()
-// includes shows that elements is present in array or not in boolean
+// includes shows that elements is present in array or not in boolean d
 console.log(myArray.includes(2))
 // index of for elemnts index number
 console.log(myArray.indexOf(5))
