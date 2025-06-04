@@ -1,3 +1,5 @@
+An array is a data structure that stores multiple values in a single variable, with each value accessible by an index. 
+Example:
 let myArray = [0, 2, 3, 4, 5, 6, "Abhishek"]
 let myHeroes = ["shaktimaan", "hulk", "thor"]
 
